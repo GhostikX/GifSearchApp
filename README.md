@@ -1,7 +1,10 @@
 # ChiliLabs Test Exercise for Android Development
 
+## Architecture Pattern: MVVM
+
 ## Stack
 - kotlin
+- Coroutines, Flows
 - jetpack compose for ui
 - retrofit for network
 - hilt for di
